@@ -6,10 +6,12 @@ Sciences, KTH Royal Institute of Technology.
 
 | | |
 |---|---|
-| **Dates** | October 21–22, 2026 (2 full days) |
-| **Leads** | Wei Ouyang, Jonas Sellberg |
-| **Audience** | APHYS faculty (~25–30 participants) |
-| **Venue** | TBD |
+| **Dates** | Wednesday 21 – Thursday 22 October 2026 |
+| **Venue** | [Skytteholm Hotell & Konferens, Ekerö](https://www.skytteholm.se/konferens/) |
+| **Travel** | Bus from Brommaplan 08:30 on 21 Oct, returning 13:30 on 22 Oct |
+| **Organisers** | Jonas Sellberg, Wei Ouyang |
+| **Audience** | APHYS faculty (~30 participants) |
+| **Included** | Single rooms, all meals, Nordic Spa access |
 
 This is the fourth and final event in the 2026 APHYS AI series, following the
 May 8 tutorial, the May 26 SCI hackathon, and the June teachers' meeting. It is
@@ -18,22 +20,29 @@ with working practice and concrete commitments.
 
 ## Programme at a glance
 
-**Day 1 — AI agent onboarding**
-- Morning: personalised AI-guided learning (AI Tutor Prompt)
-- Afternoon: hands-on building with AI agents
+Four sessions totalling eight and a half hours, plus a one-hour keynote.
 
-**Day 2 — Research, productivity and the future**
-- Morning: AI for your real work — each participant solves their own problem
-- Afternoon: teaching crisis discussion, assignment redesign, action planning
+**Day 1 — Wednesday 21 October**
+- Session 1: tools and foundations (1 h)
+- Session 2: experience sharing — what worked and what did not (1.5 h)
+- Sessions 3a/3b: agentic mini hackathon, build (3 h)
+- Keynote: industrial perspective, continuing over dinner (1 h)
 
-See [PLAN.md](PLAN.md) for the session-by-session draft.
+**Day 2 — Thursday 22 October**
+- Session 3c: hackathon wrap-up and demos (1 h)
+- Session 4: ethics and departmental guidelines (2 h)
+- Closing and next steps
 
-## Objectives
+See [PLAN.md](PLAN.md) for the full agenda and session design.
 
-- AI agent fluency for every participant, not just the already-converted
-- Practical building experience on the participant's own research problem
-- Honest treatment of AI's impact on teaching and junior careers
-- Concrete action items and department-level agreements to take away
+## Intended outputs
+
+Two things should outlast the two days:
+
+1. A shared repository of agent skills built during the hackathon — every group
+   commits at least one `SKILLS.md`, as a requirement rather than an aspiration
+2. A guidelines and strategy document for AI at the department, seeded by the
+   ethics session that closes the retreat
 
 ## Repository contents
 
@@ -52,5 +61,6 @@ See [PLAN.md](PLAN.md) for the session-by-session draft.
 
 ## Status
 
-**Everything except the dates is tentative.** Format, sessions, venue and
-content are all open and expected to change as planning proceeds.
+Dates and venue are confirmed. **The agenda is a draft circulated for faculty
+review** — comments are welcome and wanted, and the final version will be
+published in early October. The keynote speaker is not yet announced.
